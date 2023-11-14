@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(159, 178, 174);
+}
+
+a {
+    color: rgb(58, 62, 67);
+}
+
+span {
+    color: red;
+}
+
+.p_gray {
+    color: gray;
+    text-decoration: italic;
+}
+
+.p_bold {
+    color: black;
+    font-weight: 600;
+}
+
+.p_red {
+    color: rgb(57, 3, 3);
+}
+
+.img_left {
+    float: left;
+    width: 20%;
+}
+
+.img_right {
+    float: right;
+    width: 20%;
+}
